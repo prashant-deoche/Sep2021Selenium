@@ -3,6 +3,7 @@ package com.qa.opencart.pages;
 public class DemoImp {
 
 	public void order() {
-		String name="Naveen";
+		String name="Prashant";
+		int total=100;
 	}
 }
